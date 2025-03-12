@@ -1,0 +1,31 @@
+
+.container {
+    background-image: url("https://media1.tenor.com/m/Pl24l-isDrMAAAAd/spongebob-squarepants-spongebob.gif");
+    background-size: cover;
+    max-width: 1200px;
+    height: 800px;
+    margin: auto;
+    padding: 50px 20px;
+  }
+  
+  h1 {
+    font-size: 6rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #000000;
+}
+  
+  h2 {
+    color: #e74c3c;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  p{
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  a{
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
